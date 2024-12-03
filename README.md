@@ -92,7 +92,7 @@ git clone https://github.com/GiatrasKon/Algorithms-in-Structural-Bioinformatics-
 - **Seaborn**: For creating heatmaps and enhanced data visualizations..
 - **Biopython**: For handling PDB files and structural bioinformatics tasks.
 - **PyMOL (open-source)**: For RMSD analysis and structural alignment.
-- **[ChimeraX](https://www.cgl.ucsf.edu/chimerax/download.html)**" For molecular visualizations (installed separately; not a Python package).
+- **[ChimeraX](https://www.cgl.ucsf.edu/chimerax/download.html)**: For molecular visualizations (installed separately; not a Python package).
 
 You can install all the dependencies at once using the following command:
 
